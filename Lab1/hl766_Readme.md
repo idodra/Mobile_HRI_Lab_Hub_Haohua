@@ -1,28 +1,6 @@
 # Interaction First
 \*\*** Hongyu Shen hs692, Sylvie Chen xc455, Haohua Liu hl766 **\*\*
 
-In this lab, you will modify a robotic creature (ConeBot) that is originally designed by [Dr. Rei Lee](https://infosci.cornell.edu/~reilee/), a friend of our lab. The [ConeBot](https://infosci.cornell.edu/~reilee/ConeBot/) is a shy robot that hides under a small traffic cone. It is adventuring the world by itself but hopes people don't notice it at all.
-
-Today, you will work with a close relative of ConeBot, CloneBot. Though closely related, CloneBot's personality (robotality?) is quite the opposite of ConeBot. It is outgoing and loves to hangout with people. You will work with CloneBot and design its legendary adventure. 
-
-This lab uses Wizard of Oz prototyping--that is, the Wizard (that is you) controls the robot and gives it the intelligence it does not have it. The point of Wizard of Oz prototyping is to gather data about how people will respond to an intelligent robot, so that you have the information you need to design the robot well.
-
-## Prep
-For this week's lab (and also the following week), you will work in groups of 3.
-
-### For this lab, you will need:
-1. Smart Phone (Laptop or Tablets also work) -- The main required feature is that the phone needs to connect to WiFi and display a webpage.
-2. To work in a group of 3 (encouraged) or 4 people (if necessary).
-
-\*\***^^^ List the names and NetID for your partners above. ^^^**\*\*
-
-### Update your personal lab repo
-1.  Log in to your github, go to `YourGithubUsername/Mobile_HRI_Lab_Hub/`. 
-2.  Click "Sync fork" -> "Update branch"
-<img src="https://user-images.githubusercontent.com/20778137/216361417-48d0e8b6-2d21-46e0-869c-b8aa801dfed4.png" width="600">
-3. Now your Lab Hub should be updated with the latest lab.
-
-
 ## Lab Overview
 For this assignment, you are going to:
 
@@ -106,7 +84,9 @@ Leverage the possible motions of Clonebot and the extra degree of freedom provid
 Storyboards are a tool for visually exploring a users interaction with a device. They are a fast and cheap method to understand user flow, and iterate on a design before attempting to build on it. Take some time to read through this explanation of [storyboarding in UX design](https://www.smashingmagazine.com/2017/10/storyboarding-ux-design/). Sketch five storyboards of the interactions you are planning. **It does not need to be perfect**, but must get across the behavior of the CloneBot and the other characters in the scene. 
 
 \*\***Include pictures of your storyboards here**\*\*
+
 Please find our storyboards and video clips here.
+
 https://docs.google.com/document/d/17_B_EzBEC6lp-5RPfNYxuCCtZvjYASexyDrNGiEbp7Q/edit?usp=sharing
 
 ## Part C. Act out the Interaction
