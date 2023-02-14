@@ -42,9 +42,14 @@ What activities are going on in that space? What activity is the robot going to 
 
 \*\***Sketch and/or take photos of the site(s) you are considering.**\*\*
 
+The intended interaction of the robot takes place in households that have pets. For the purpose of acting out and recording the interactions, we will do it on a big desk and draw a dog on a cardboard to represent an actual dog. In the meantime, the dog's owner is at another place controlling the robot.
+
 \*\***Document the activities being considered.**\*\*
 
+The activities in the scene include the dog barking, making noises and running in the house. The robot will participate in watching the dog for its owner through the camera as well as playing with the dog.
+
 \*\***What issues or opportunties arise from the site and activities?**\*\*
+The issue the robot is trying to solve is to keep the dog company while the owner is away. There is plenty of room for the robot to move around and do different types of interactions such as dancing. However, the robot will also need to take the risk of being hit or accidentally harmed by the dog and other things in the environment.
 
 ## Part C. Costume the robot
 
@@ -59,6 +64,7 @@ Pick one of the custumes and make it with paper or cardboard or any other materi
 \*\***Include photos of your custumed robot here.**\*\*
 
 \*\***What concerns or opportunitities are influencing the way you've designed the robot to look?**\*\*
+Our robot is a pet companion, so the number one goal for us was to make it fun to play with. In order to induce pets’ curiosity and to make them comfortable with the robot’s presence, we decided to make the robot animal-like, in particular, a snail. We cut out a cardboard plane and folded it to create a shell around the robot, with its front plane being the face of the animal. We cut out the mouth area for the camera and stuck two round shaped cardboard pieces onto the plane as eyes. We also made a pink bow using gauze fabric to make the robot more appealing.
 
 
 ## Part D. Wizard the Robot
